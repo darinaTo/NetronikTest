@@ -1,4 +1,4 @@
-package com.example.netroniktest.ui.theme
+package com.example.netroniktest.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

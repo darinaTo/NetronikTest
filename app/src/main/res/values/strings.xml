@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">NetronikTest</string>
+    <string name="error">Error: %1$s</string>
+    <string name="users">Users</string>
+    <string name="name">Name: %1$s</string>
+    <string name="email">Email: %1$s</string>
+    <string name="number">Number: %1$s</string>
+    <string name="country">Country: %1$s</string>
+    <string name="city">City: %1$s</string>
+    <string name="user_detail">User detail</string>
 </resources>
